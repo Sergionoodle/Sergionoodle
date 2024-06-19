@@ -27,34 +27,22 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 
 <br/>
-<br/>
 
-#### Frameworks
 
-<p>
-  <img src="https://symfony.com/logos/symfony_black_03.png" alt="Symfony" width="40" height="40"/>
-  <img src="https://spring.io/images/spring-logo-2020-09-24T14:31:23.865Z.svg" alt="Spring Boot" width="40" height="40"/>
-</p>
 
-#### Y mucho más...
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Circle-icons-plus.svg/1024px-Circle-icons-plus.svg.png" alt="Plus" width="40" height="40"/>
-</p>
-
-[<img align="left" alt="Lapini | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Sergio | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 ### Contacto
 [linkedin]: https://www.linkedin.com/in/sergio-jimenez-guzman-210362267/
 
 ### Mis Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sergionoodle&show_icons=true&theme=radical)
 
 ### Lenguajes Más Usados
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=sergionoodle&layout=compact&theme=radical)
 
 ### ¡Gracias por visitar mi perfil!
-![Thank You](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
+![Thank You](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdzanZjb240Zzg1b2psZzU5aTVqb21vNmR0cjJ6YmNuMmFtc252MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cA0TiRmuetO1szgShj/giphy.gif)
 
