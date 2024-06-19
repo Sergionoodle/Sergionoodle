@@ -15,16 +15,24 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 #### Lenguajes de Programación
 
-![PHP](https://www.php.net/images/logos/php-logo.svg) ![Java](https://www.oracle.com/a/ocom/img/cb71-java-logo-001.jpg) ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<p>
+  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo-001.jpg" alt="Java" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
+</p>
 
 #### Frameworks
 
-![Symfony](https://symfony.com/logos/symfony_black_03.png) ![Spring Boot](https://spring.io/images/spring-logo-2020-09-24T14:31:23.865Z.svg)
+<p>
+  <img src="https://symfony.com/logos/symfony_black_03.png" alt="Symfony" width="40" height="40"/>
+  <img src="https://spring.io/images/spring-logo-2020-09-24T14:31:23.865Z.svg" alt="Spring Boot" width="40" height="40"/>
+</p>
 
 #### Y mucho más...
 
-![Plus](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Circle-icons-plus.svg/1024px-Circle-icons-plus.svg.png)
-
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Circle-icons-plus.svg/1024px-Circle-icons-plus.svg.png" alt="Plus" width="40" height="40"/>
+</p>
 ### Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergio-jimenez-guzman-210362267/)
 
