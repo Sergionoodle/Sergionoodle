@@ -15,11 +15,26 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 #### Lenguajes de Programación
 
-<p>
-  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo-001.jpg" alt="Java" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
-</p>
+<img align="left" alt="Lapini | Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />
+<img align="left" alt="Lapini | Unreal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/640px-UE_Logo_Black_Centered.svg.png"/>
+<img align="left" alt="Lapini | Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"/>
+<img align="left" alt="Lapini | React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
+<img align="left" alt="Lapini | Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" />
+<img align="left" alt="Lapini | Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
+<img align="left" alt="Lapini | C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+<img align="left" alt="Lapini | Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+<img align="left" alt="Lapini | MongoDB" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>
+<img align="left" alt="Lapini | SQL" width="26px" src="https://lineadecodigo.com/wp-content/uploads/2014/04/sql-e1633736325758.png"/>
+<img align="left" alt="Lapini | Photoshop" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-1.png" />
+<img align="left" alt="Lapini | Premiere" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" />
+<img align="left" alt="Lapini | After Effects" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/788px-Adobe_After_Effects_CC_icon.svg.png" />
+<img align="left" alt="Lapini | Illustrator" width="26px" src="https://www.pngmart.com/files/21/AI-PNG-Image.png" />
+<img align="left" alt="Lapini | Marvelous" width="26px" src="https://theme.zdassets.com/theme_assets/9584131/bfb9d59b5074cba7b27f4dca62fb2cb313f9a273.png" />
+<img align="left" alt="Lapini | Character Creator" width="26px" src="https://www.reallusion.com/about/includes/image/press_resource_product/cc/character-creator-1000x1000_colorlogo_word.png" />
+
+
+<br/>
+<br/>
 
 #### Frameworks
 
@@ -33,8 +48,11 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Circle-icons-plus.svg/1024px-Circle-icons-plus.svg.png" alt="Plus" width="40" height="40"/>
 </p>
+
+[<img align="left" alt="Lapini | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
 ### Contacto
-- 💼 ![LinkedIn](https://www.linkedin.com/in/sergio-jimenez-guzman-210362267/)
+[linkedin]: https://www.linkedin.com/in/sergio-jimenez-guzman-210362267/
 
 ### Mis Estadísticas de GitHub
 
