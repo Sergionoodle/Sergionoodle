@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Sergio!
 
-![Header](https://i.gifer.com/TjHc.gif) <!-- Cambia esto por la URL de tu imagen de cabecera -->
+![Header](https://media2.giphy.com/media/VbAFrrDVGAvZu/200w.gif?cid=82a1493bidodgfu8qtc5weww7b85s43fy5zr7unf7dbmkk1e&ep=v1_gifs_related&rid=200w.gif&ct=g) <!-- Cambia esto por la URL de tu imagen de cabecera -->
 
 ### Sobre mí
 Soy un apasionado de la informática y un eterno aprendiz. Me encanta sumergirme en nuevas tecnologías, explorar nuevas fronteras en el desarrollo de software y siempre estoy en busca de aprender algo nuevo. Además, soy un gran admirador de la cultura japonesa, que me inspira en muchos aspectos de mi vida y trabajo. Aquí vais a ver sobre todo mis primeros proyectos y en lo que voy trabajando cuando me aburro o quiero aprender algo nuevo :)
