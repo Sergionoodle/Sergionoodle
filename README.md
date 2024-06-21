@@ -27,12 +27,13 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 
 <br/>
+<br/>
 
 
-
-[<img align="left" alt="Sergio | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 ### Contacto
+[<img align="left" alt="Sergio | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/sergio-jimenez-guzman-210362267/
 
 ### Mis Estadísticas de GitHub
