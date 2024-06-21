@@ -36,6 +36,8 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 [linkedin]: https://www.linkedin.com/in/sergio-jimenez-guzman-210362267/
 
+<br/>
+
 ### Mis Estadísticas de GitHub
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sergionoodle&show_icons=true&theme=radical)
