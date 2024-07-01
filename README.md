@@ -40,7 +40,7 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 ### Mis Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sergionoodle&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sergionoodle&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ### Lenguajes Más Usados
 
