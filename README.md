@@ -15,7 +15,7 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 #### Lenguajes de Programación
 
-<img align="left" alt="Sergio | Php" width="26px" src="https://icon2.cleanpng.com/20180723/zyu/kisspng-logo-php-computer-icons-postgresql-logo-5b559bb3517853.6408271315323370753337.jpg" />
+<img align="left" alt="Sergio | Php" width="26px" src="https://www.svgrepo.com/show/452088/php.svg" />
 <img align="left" alt="Sergio | Symfony" width="26px" src="https://symfony.com/logos/symfony_black_03.png"/>
 <img align="left" alt="Sergio | Spring" width="26px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png"/>
 <img align="left" alt="Sergio | React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
@@ -24,6 +24,9 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 <img align="left" alt="Sergio | Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
 <img align="left" alt="Sergio | SQL" width="26px" src="https://lineadecodigo.com/wp-content/uploads/2014/04/sql-e1633736325758.png"/>
 <img align="left" alt="Sergio | Postgres" width="26px" src="https://p7.hiclipart.com/preview/396/90/545/postgresql-database-logo-computer-icons-replication-software-developer.jpg" />
+<img align="left" alt="Sergio | MariaDB" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS--NB2vEZuv_-Z5cR1USGJKGkf39NJQ8Pqg&s" />
+<img align="left" alt="Sergio | Blazor" width="26px" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" />
+<img align="left" alt="Sergio | .Net" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzemPW2zVigKv44mjIDfGwrf_Rgzcyu07m_A&s" />
 
 
 <br/>
