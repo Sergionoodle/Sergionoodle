@@ -15,8 +15,8 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 #### Lenguajes de Programación
 
-<img align="left" alt="Sergio | Php" width="26px" src="https://icon2.cleanpng.com/20180723/zyu/kisspng-logo-php-computer-icons-postgresql-logo-5b559bb3517853.6408271315323370753337.jpg" />
-<img align="left" alt="Sergio | Symfony" width="26px" src="https://symfony.com/logos/symfony_white_02.png"/>
+<img align="left" alt="Sergio | Php" width="26px" src="[https://icon2.cleanpng.com/20180723/zyu/kisspng-logo-php-computer-icons-postgresql-logo-5b559bb3517853.6408271315323370753337.jpg](https://www.php.net/images/logos/new-php-logo.svg)" />
+<img align="left" alt="Sergio | Symfony" width="26px" src="[https://symfony.com/logos/symfony_white_02.png](https://symfony.com/logos/symfony_black_03.png)"/>
 <img align="left" alt="Sergio | Spring" width="26px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png"/>
 <img align="left" alt="Sergio | React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
 <img align="left" alt="Sergio | Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" />
