@@ -23,7 +23,7 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 <img align="left" alt="Sergio | Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
 <img align="left" alt="Sergio | Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
 <img align="left" alt="Sergio | SQL" width="26px" src="https://lineadecodigo.com/wp-content/uploads/2014/04/sql-e1633736325758.png"/>
-<img align="left" alt="Sergio | Postgres" width="26px" src="https://p7.hiclipart.com/preview/396/90/545/postgresql-database-logo-computer-icons-replication-software-developer.jpg" />
+<img align="left" alt="Sergio | Postgres" width="26px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
 <img align="left" alt="Sergio | MariaDB" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS--NB2vEZuv_-Z5cR1USGJKGkf39NJQ8Pqg&s" />
 <img align="left" alt="Sergio | Blazor" width="26px" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" />
 <img align="left" alt="Sergio | .Net" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzemPW2zVigKv44mjIDfGwrf_Rgzcyu07m_A&s" />
