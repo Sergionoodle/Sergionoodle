@@ -44,7 +44,7 @@ Tengo experiencia en una variedad de lenguajes de programación y frameworks. Aq
 
 ### Mis Estadísticas de GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sergionoodle&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sergionoodle&theme=radical)]
 
 ### Lenguajes Más Usados
 
